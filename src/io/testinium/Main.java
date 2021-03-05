@@ -3,6 +3,6 @@ package io.testinium;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello changed!!");
+        System.out.println("Hello from intelij!!");
     }
 }
